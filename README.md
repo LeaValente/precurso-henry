@@ -1,2 +1,1 @@
-# precurso-henry
-Este es un repositorio del modulo2 del precurso henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
